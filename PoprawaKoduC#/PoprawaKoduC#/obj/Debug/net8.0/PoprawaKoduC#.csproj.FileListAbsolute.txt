@@ -1,0 +1,14 @@
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\bin\Debug\net8.0\PoprawaKoduC#.exe
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\bin\Debug\net8.0\PoprawaKoduC#.deps.json
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\bin\Debug\net8.0\PoprawaKoduC#.runtimeconfig.json
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\bin\Debug\net8.0\PoprawaKoduC#.dll
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\bin\Debug\net8.0\PoprawaKoduC#.pdb
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\obj\Debug\net8.0\PoprawaKoduC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\obj\Debug\net8.0\PoprawaKoduC#.AssemblyInfoInputs.cache
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\obj\Debug\net8.0\PoprawaKoduC#.AssemblyInfo.cs
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\obj\Debug\net8.0\PoprawaKoduC#.csproj.CoreCompileInputs.cache
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\obj\Debug\net8.0\PoprawaKoduC#.dll
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\obj\Debug\net8.0\refint\PoprawaKoduC#.dll
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\obj\Debug\net8.0\PoprawaKoduC#.pdb
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\obj\Debug\net8.0\PoprawaKoduC#.genruntimeconfig.cache
+C:\Users\48669\source\repos\lab3\PoprawaKoduC#\PoprawaKoduC#\obj\Debug\net8.0\ref\PoprawaKoduC#.dll
